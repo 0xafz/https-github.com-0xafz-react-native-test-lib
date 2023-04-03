@@ -1,17 +1,17 @@
-# react-native-awesome-library2
+# react-native-test-lib
 
 test
 
 ## Installation
 
 ```sh
-npm install react-native-awesome-library2
+npm install react-native-test-lib
 ```
 
 ## Usage
 
 ```js
-import { multiply } from 'react-native-awesome-library2';
+import { multiply } from 'react-native-test-lib';
 
 // ...
 

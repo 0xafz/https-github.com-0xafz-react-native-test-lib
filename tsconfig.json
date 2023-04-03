@@ -2,7 +2,7 @@
   "compilerOptions": {
     "baseUrl": "./",
     "paths": {
-      "react-native-awesome-library2": ["./src/index"]
+      "react-native-test-lib": ["./src/index"]
     },
     "allowUnreachableCode": false,
     "allowUnusedLabels": false,
