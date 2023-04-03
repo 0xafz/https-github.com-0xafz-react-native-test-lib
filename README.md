@@ -1,17 +1,17 @@
-# react-native-test-lib
+# rn-test-lib
 
 test
 
 ## Installation
 
 ```sh
-npm install react-native-test-lib
+npm install rn-test-lib
 ```
 
 ## Usage
 
 ```js
-import { multiply } from 'react-native-test-lib';
+import { multiply } from 'rn-test-lib';
 
 // ...
 

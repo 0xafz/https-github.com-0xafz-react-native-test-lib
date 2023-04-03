@@ -1,5 +1,5 @@
 {
-  "name": "react-native-test-lib",
+  "name": "rn-test-lib",
   "version": "0.1.0",
   "description": "test",
   "main": "lib\\commonjs\\index.js",
@@ -41,13 +41,13 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/0xafz/react-native-test-lib",
+  "repository": "https://github.com/0xafz/rn-test-lib",
   "author": "0xafz <0xafz.dev@gmail.com> (https://github.com/0xafz)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/0xafz/react-native-test-lib/issues"
+    "url": "https://github.com/0xafz/rn-test-lib/issues"
   },
-  "homepage": "https://github.com/0xafz/react-native-test-lib#readme",
+  "homepage": "https://github.com/0xafz/rn-test-lib#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },

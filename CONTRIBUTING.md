@@ -53,9 +53,9 @@ Remember to add tests for your change if possible. Run the unit tests by:
 yarn test
 ```
 
-To edit the Objective-C or Swift files, open `example/ios/AwesomeLibrary2Example.xcworkspace` in XCode and find the source files at `Pods > Development Pods > react-native-test-lib`.
+To edit the Objective-C or Swift files, open `example/ios/AwesomeLibrary2Example.xcworkspace` in XCode and find the source files at `Pods > Development Pods > rn-test-lib`.
 
-To edit the Java or Kotlin files, open `example/android` in Android studio and find the source files at `react-native-test-lib` under `Android`.
+To edit the Java or Kotlin files, open `example/android` in Android studio and find the source files at `rn-test-lib` under `Android`.
 
 ### Commit message convention
 
