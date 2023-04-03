@@ -19,6 +19,11 @@ class AwesomeLibrary2Module(reactContext: ReactApplicationContext) :
     promise.resolve(a * b)
   }
 
+  @ReactMethod(isBlockingSynchronousMethod = true)
+  fun add(a: Double, b: Double): Double {
+    return a+b
+  }
+
   companion object {
     const val NAME = "AwesomeLibrary2"
   }

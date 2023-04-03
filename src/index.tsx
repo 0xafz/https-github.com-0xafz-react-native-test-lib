@@ -20,3 +20,7 @@ const AwesomeLibrary2 = NativeModules.AwesomeLibrary2
 export function multiply(a: number, b: number): Promise<number> {
   return AwesomeLibrary2.multiply(a, b);
 }
+
+export function add(a: number, b: number): number {
+  return AwesomeLibrary2.add(a, b);
+}
